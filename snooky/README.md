@@ -14,3 +14,5 @@
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    
+    compile with "make -o main.cpp" then run the executable with ./snekysnek
